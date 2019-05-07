@@ -1,0 +1,73 @@
+{
+  "app_name": "builder",
+  "selected_theme": "1",
+  "app_toolbar": {
+    "title": false,
+    "buttons": [
+      {
+        "label": "File"
+      }
+    ]
+  },
+  "side_navs": [
+    {
+      "id": "1",
+      "position": "left",
+      "title": "project tree",
+      "menus": [
+        {
+          "label": "label 1",
+          "icon": "icon title",
+          "sub_menu": "",
+          "link": ""
+        }
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "id": "1",
+      "title": "home",
+      "route": "/home",
+      "rows": [
+        {
+          "id": "1",
+          "toolbar": {
+            "title": "",
+            "buttons": [
+              {
+                "id": "1",
+                "label": "",
+                "icon": "",
+                "icon_position": ""
+              }
+            ]
+          },
+          "components": [
+            {
+              "id": "1",
+              "component_name": "",
+              "properties": [
+
+              ],
+              "child_components": [
+                {
+
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "workbench": {},
+  "themes": [
+    {
+      "id": "1",
+      "primary_color": "",
+      "secondary_color": "",
+      "accent_color": ""
+    }
+  ]
+}
